@@ -1,0 +1,44 @@
+.z{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-left:0px ;
+
+    }
+    .body{
+        font-family: "Rubik Wet Paint", system-ui;
+      font-weight: 400;
+      font-style: normal;
+      margin: 0;
+}
+    .header{
+        color: rgb(255, 255, 255) a ;
+    }
+    .header a{
+        color: rgb(253, 254, 252);
+        padding: 10px 15px;
+        text-decoration: wavy;
+    }
+    .header a:hover{
+        background-color: rgb(57, 57, 251);
+        border-radius: 15px;
+    }
+    .landingpage{
+background: none;
+background-color: blue;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px 20px;
+color: white;
+border-radius:0 0 50px 50px;
+}
+.landingpageimg{
+border-radius: 20px;
+width: 250;
+}
+.landingpageleft{
+width: 500px;
+}   
